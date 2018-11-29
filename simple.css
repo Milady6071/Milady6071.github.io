@@ -1,0 +1,14 @@
+body {
+font-family: sans-serif;
+}
+       
+body {
+font-family: calibri;
+background-image: url('../images/roze.jpg');
+}
+h1 {
+padding: 30px;
+background-color: pink;
+color: white;
+border-radius: 25px; }
+
